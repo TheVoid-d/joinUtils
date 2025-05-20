@@ -1,0 +1,12 @@
+name: joinUtils
+version: '${project.version}'
+main: thevoid.joinutils.JoinUtils
+api-version: '1.21'
+
+commands:
+  setsound:                 #изменить звук входа/выхода
+    permission: joinutils.setjoinsound
+  setmessage:               #изменить сообщения для входа/выхода
+    permission: joinutils.setmessage
+  joinutilsreloadconfig:    #перезагрузка конфига
+    permission: joinutils.reloadconfig

@@ -1,0 +1,6 @@
+default-quit-message: "&e[-] %player%"
+default-join-message: "&e[+] %player%"
+donator-quit-prefix: "&e[-] "
+donator-join-prefix: "&e[+] "
+# ТУТ ЮЗАЙ ТОЛЬКО ВАНИЛЬНЫЕ КОДА, ИНАЧЕ ПИЗДА
+# %player% -> ник игрока
